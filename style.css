@@ -1,0 +1,34 @@
+
+.main {
+    display: flex;
+    margin: 0;
+    font-size: 18px;
+    font-style: Garamond;
+    margin: 40px;
+        }
+
+#column1 {
+    background-color: darkslategrey;
+    color: floralwhite;
+    width: 75%;
+    padding: 30px;
+}
+#column2 {
+    background-color: floralwhite;
+    color: darkslategrey;
+    width: 25%;
+    padding: 30px;
+}
+
+  a:visited {
+    color: floralwhite;
+  }
+  
+  a:hover {
+    color: hotpink;
+  }
+
+  h3 {
+      color: rosybrown;
+  }
+  
