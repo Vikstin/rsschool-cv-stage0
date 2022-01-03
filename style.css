@@ -1,20 +1,17 @@
-* {
-    box-sizing: border-box;
-}
 
-body {
-    margin: 0;
-}
-
-#main {
+.main {
     display: flex;
-    min-height: calc(100vh-20vh);
+    margin: 0;
+    font-size: 14px;
 }
+
 #column1 {
-    flex: 1;
-    background: darkslategrey;
+    background-color: darkslategrey;
+    color: floralwhite;
+    width: 75%;
 }
 #column2 {
-    flex: 0 0 20vw;
-    background: floralwhite;
+    background-color: floralwhite;
+    color: darkslategrey;
+    width: 25%;
 }
